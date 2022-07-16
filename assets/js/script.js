@@ -30,8 +30,8 @@ btn06.on('click', function(){
 
 
 // define class based on hour for first hour
-var hr = moment().format("HH");
-// var hr = 14
+// var hr = moment().format("HH");
+var hr = 10
 console.log(hr);
 
 if (hr==06) {
