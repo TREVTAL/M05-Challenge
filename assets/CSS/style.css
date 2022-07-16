@@ -45,6 +45,7 @@ textarea {
 .past {
   background-color: #d3d3d3;
   color: black;
+  vertical-align: sub;
 }
 
 .present {
