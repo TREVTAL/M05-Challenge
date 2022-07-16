@@ -18,4 +18,4 @@ M05 Challenge, Work Day Scheduler has the following features:
 
 ## Screenshot
 
-![Screenshot](https://github.com/TREVTAL/M03-Challenge/blob/79ab845e37bc6b679bc5016292ff2ff975716faa/Assets/03-javascript-homework-demo.png)
+![Screenshot](https://raw.githubusercontent.com/TREVTAL/M05-Challenge/main/assets/Images/Screenshot.jpg)
